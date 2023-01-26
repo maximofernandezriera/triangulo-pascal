@@ -10,7 +10,6 @@
  * 1 5 10 10 5 1
  * ...
  */
-package estructurasestaticas;
 
 import java.util.Scanner;
 
